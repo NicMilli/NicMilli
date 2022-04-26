@@ -1,5 +1,5 @@
 ### Chemical Engineer interested in full-stack and blockchain development 💡
-# View my website [here!](www.nicholaskmilligan.com)
+# View my website [here!](https://nicholaskmilligan.com/)
 
 
 - 🌱 I’m currently perfecting my React development skills!
