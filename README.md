@@ -3,6 +3,7 @@
 
 ## 🙋 About Me:
 - 🌱 I’m currently perfecting my React development skills!
+- 🎓 BS in Chemical Engineering from the University Of California, Davis.
 - 👯 I’m looking to collaborate on any interesting projects! See my stack below but I love to learn new languages.
 - 📫 How to reach me: [My website](https://nicholaskmilligan.com/contact)
 - ⚡ Fun fact: I represented South Africa for bass fishing and featured on the cover of a fishing magazine!
