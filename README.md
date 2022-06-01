@@ -1,6 +1,7 @@
 # Chemical Engineer interested in full-stack and blockchain development 💡
 ## View my website [here!](https://nicholaskmilligan.com/)
-![hippo](https://media.giphy.com/STx3VQPPCgvbzIKlw4/giphy.gif)
+![hippo](https://giphy.com/gifs/lofi-davidchoe-david-choe-lJbot6b2yxvDBfL0bJ)
+<iframe src="https://giphy.com/embed/lJbot6b2yxvDBfL0bJ" width="480" height="253" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lofi-davidchoe-david-choe-lJbot6b2yxvDBfL0bJ">via GIPHY</a></p>
 
 ## 🙋 About Me:
 - 🌱 I’m currently perfecting my React development skills!
