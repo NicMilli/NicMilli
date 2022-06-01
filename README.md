@@ -2,6 +2,7 @@
 # Learn more about me on [my website](https://nicholaskmilligan.com/)
 
 <img align="right" src="https://media.giphy.com/media/lGD7VxrtwNalqhx68w/giphy.gif" alt="My Image"  width="400" height="250">
+
 ### 🙋 About Me:
 - 🌱 I’m currently perfecting my React development skills!
 - 🎓 BS in Chemical Engineering from the University Of California, Davis.
@@ -11,6 +12,7 @@
 - 📍 Places I've been: I grew up in South Africa and currently live in Denver, CO. In between I've visited Lesotho, Botswana, Zimbabwe, Maurtius, Switzerland, Austria, England, Spain, Australia, New Zealand, Hong Kong, Brazil. Next up ---> Mexico!
 
 <img align="right" src="https://media.giphy.com/media/lJbot6b2yxvDBfL0bJ/giphy.gif" alt="My Image"  width="400" height="250">
+
 ### 📂 My Stack: 
 - React
 - Solidity
