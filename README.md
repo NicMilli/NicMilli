@@ -1,6 +1,6 @@
 # Chemical Engineer interested in full-stack and blockchain development 💡
 ## View my website [here!](https://nicholaskmilligan.com/)
-![hippo](https://media.giphy.com/media/STx3VQPPCgvbzIKlw4/giphy.gif)
+![hippo](https://media.giphy.com/STx3VQPPCgvbzIKlw4/giphy.gif)
 
 ## 🙋 About Me:
 - 🌱 I’m currently perfecting my React development skills!
