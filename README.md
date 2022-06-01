@@ -22,3 +22,7 @@
 - JavaScript
 - ASPEN Plus
 - Node.js
+- Firebase
+- fetchApi
+- Axios
+- Postman
