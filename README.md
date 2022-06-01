@@ -1,9 +1,7 @@
 # Chemical Engineer interested in full-stack and blockchain development 💡
 # Learn more about me on [my website](https://nicholaskmilligan.com/)https://media.giphy.com/media/lJbot6b2yxvDBfL0bJ/giphy.gif
 
-<img align="right" src="https://gfycat.com/ifr/DefiantLividElephantseal" alt="My Image"  width="400" height="250">
-<iframe src='https://gfycat.com/ifr/DefiantLividElephantseal' frameborder='0' scrolling='no' allowfullscreen width='640' height='485'></iframe><p> <a href="https://gfycat.com/defiantlividelephantseal-programming-software-dev">via Gfycat</a></p>
-
+<img align="right" src="https://media.giphy.com/media/lGD7VxrtwNalqhx68w/giphy.gif" alt="My Image"  width="400" height="250">
 ### 🙋 About Me:
 - 🌱 I’m currently perfecting my React development skills!
 - 🎓 BS in Chemical Engineering from the University Of California, Davis.
