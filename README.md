@@ -1,7 +1,6 @@
 # Chemical Engineer interested in full-stack and blockchain development 💡
-## View my website [here!](https://nicholaskmilligan.com/) ![hippo](https://media.giphy.com/media/Eick8bjZ78Hv6WXnPD/giphy.gif)
+<img align="right" src="https://media.giphy.com/media/lJbot6b2yxvDBfL0bJ/giphy.gif" alt="My Image">
 
-https://media.giphy.com/media/lJbot6b2yxvDBfL0bJ/giphy.gif
 ## 🙋 About Me:
 - 🌱 I’m currently perfecting my React development skills!
 - 🎓 BS in Chemical Engineering from the University Of California, Davis.
