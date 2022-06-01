@@ -1,7 +1,7 @@
 # Chemical Engineer interested in full-stack and blockchain development 💡
 # Learn more about me on [my website](https://nicholaskmilligan.com/)
 
-<img align="right" src="https://media.giphy.com/media/lGD7VxrtwNalqhx68w/giphy.gif" alt="My Image"  width="400" height="250">
+<img align="right" src="https://media.giphy.com/media/lGD7VxrtwNalqhx68w/giphy.gif" alt="My Image"  width="400" height="290">
 
 ### 🙋 About Me:
 - 🌱 I’m currently perfecting my React development skills!
@@ -10,6 +10,7 @@
 - 📫 How to reach me: [My website](https://nicholaskmilligan.com/contact)
 - ⚡ Fun fact: I represented South Africa for bass fishing and featured on the cover of a fishing magazine!
 - 📍 Places I've been: I grew up in South Africa and currently live in Denver, CO. In between I've visited Lesotho, Botswana, Zimbabwe, Maurtius, Switzerland, Austria, England, Spain, Australia, New Zealand, Hong Kong, Brazil. Next up ---> Mexico!
+##
 
 <img align="right" src="https://media.giphy.com/media/lJbot6b2yxvDBfL0bJ/giphy.gif" alt="My Image"  width="400" height="250">
 
