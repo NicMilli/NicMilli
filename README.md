@@ -1,4 +1,5 @@
-# Chemical Engineer interested in full-stack and blockchain development 💡 [![Followers](https://img.shields.io/github/followers/NicMilli.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/NicMilli)
+# Chemical Engineer interested in full-stack and blockchain development 💡 
+I am trying to transition into a software developer role and am looking for work. Any help or networking is greatly appriciated!
 # Learn more about me: [![my website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nicholaskmilligan.com/) [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-milligan-5ba6971a5/)
 
 <img align="right" src="https://media.giphy.com/media/lJbot6b2yxvDBfL0bJ/giphy.gif" alt="My Image"  width="600" height="350">
@@ -19,6 +20,11 @@
 - 📫 How to reach me: [My website](https://nicholaskmilligan.com/contact)
 - ⚡ Fun fact: I represented South Africa for bass fishing and featured on the cover of a fishing magazine!
 - 📍 Places I've been: I grew up in South Africa and currently live in Denver, CO. In between I've visited Lesotho, Botswana, Zimbabwe, Maurtius, Switzerland, Austria, England, Spain, Australia, New Zealand, Hong Kong, Brazil. Next up ---> Mexico!
+
+##
+##My goals for 2022:
+- **Get hired** as a software developer!
+- Take my idea for a 'shopping list' app to minumum viable product stage
 
 ## What I'm currently interested in and learning:
 [![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]() [![]()]()
