@@ -1,5 +1,5 @@
 # Chemical Engineer interested in full-stack and blockchain development 💡
-# Learn more about me on ![my website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)(https://nicholaskmilligan.com/)
+# Learn more about me on [![my website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nicholaskmilligan.com/)
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (LinkdIn_)
 
 ### 🙋 About Me:
