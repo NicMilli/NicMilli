@@ -20,5 +20,9 @@
 - ⚡ Fun fact: I represented South Africa for bass fishing and featured on the cover of a fishing magazine!
 - 📍 Places I've been: I grew up in South Africa and currently live in Denver, CO. In between I've visited Lesotho, Botswana, Zimbabwe, Maurtius, Switzerland, Austria, England, Spain, Australia, New Zealand, Hong Kong, Brazil. Next up ---> Mexico!
 
+## What I'm currently interested in and learning:
+[![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]() [![]()]()
+
 [![Followers](https://img.shields.io/github/followers/NicMilli.svg?style=social&label=Follow&maxAge=2592000)]()
 ![LanguageStats](https://github-readme-stats.vercel.app/api/top-langs/?username=NicMilli)
+![stats](https://github-readme-stats.vercel.app/api?username=NicMilli)
