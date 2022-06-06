@@ -1,4 +1,5 @@
 # Chemical Engineer interested in full-stack and blockchain development 💡
+[![Followers](https://img.shields.io/github/followers/NicMilli.svg?style=social&label=Follow&maxAge=2592000)]()
 # Learn more about me: [![my website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nicholaskmilligan.com/) [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-milligan-5ba6971a5/)
 
 <img align="right" src="https://media.giphy.com/media/lJbot6b2yxvDBfL0bJ/giphy.gif" alt="My Image"  width="600" height="350">
@@ -26,4 +27,4 @@
 - 📍 Places I've been: I grew up in South Africa and currently live in Denver, CO. In between I've visited Lesotho, Botswana, Zimbabwe, Maurtius, Switzerland, Austria, England, Spain, Australia, New Zealand, Hong Kong, Brazil. Next up ---> Mexico!
 
 [![Followers](https://img.shields.io/github/followers/NicMilli.svg?style=social&label=Follow&maxAge=2592000)]()
-- ![LanguageStats](https://github-readme-stats.vercel.app/api/top-langs/?username=NicMilli)
+![LanguageStats](https://github-readme-stats.vercel.app/api/top-langs/?username=NicMilli)
