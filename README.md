@@ -25,4 +25,4 @@
 - Axios
 - Postman
 
-- ![image]({https://github-readme-stats.vercel.app/api/top-langs/?username={nicmilli}})
+- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=NicMilli)
