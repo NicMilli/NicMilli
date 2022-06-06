@@ -1,5 +1,4 @@
-# Chemical Engineer interested in full-stack and blockchain development 💡
-[![Followers](https://img.shields.io/github/followers/NicMilli.svg?style=social&label=Follow&maxAge=2592000)]()
+# Chemical Engineer interested in full-stack and blockchain development 💡 [![Followers](https://img.shields.io/github/followers/NicMilli.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/NicMilli)
 # Learn more about me: [![my website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nicholaskmilligan.com/) [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-milligan-5ba6971a5/)
 
 <img align="right" src="https://media.giphy.com/media/lJbot6b2yxvDBfL0bJ/giphy.gif" alt="My Image"  width="600" height="350">
