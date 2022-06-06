@@ -26,4 +26,4 @@
 - 📍 Places I've been: I grew up in South Africa and currently live in Denver, CO. In between I've visited Lesotho, Botswana, Zimbabwe, Maurtius, Switzerland, Austria, England, Spain, Australia, New Zealand, Hong Kong, Brazil. Next up ---> Mexico!
 
 [![Followers](https://img.shields.io/github/followers/NicMilli.svg?style=social&label=Follow&maxAge=2592000)]()
-- [LanguageStats](https://github-readme-stats.vercel.app/api/top-langs/?username=NicMilli)
+- ![LanguageStats](https://github-readme-stats.vercel.app/api/top-langs/?username=NicMilli)
