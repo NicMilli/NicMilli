@@ -18,7 +18,7 @@ I am trying to transition into a software developer role and am looking for work
 ##
 
 ### 🙋 About Me:
-- 🌱 I’m currently perfecting my React development skills!
+- 🌱 I am an experienced fullsatck developer!
 - 🎓 BS in Chemical Engineering from the University Of California, Davis.
 - 👯 I’m looking to collaborate on any interesting projects! See my stack below but I love to learn new languages.
 - 📫 How to reach me: [My website](https://nicholaskmilligan.com/contact)
@@ -27,8 +27,9 @@ I am trying to transition into a software developer role and am looking for work
 
 ##
 ## My goals for 2023:
-- **Get hired** as a software developer!
-- Create a personal project that can be used widely by family and friends or fellow Hack Reactor developers.
+- Create an npm package to interface with ChatGPT from the command line.
+- Improve the functionality of my AI powered ReadMe.md generator.
+- Create a speech practicing platform using machine learning to track eye contact, filler words and cadence.
 - Learn Next.js and TypeScript.
 
 ## What I'm currently interested in and learning:
