@@ -23,15 +23,12 @@
 - 👯 I’m looking to collaborate on any interesting projects! See my stack below but I love to learn new languages.
 - 📫 How to reach me: [My website](https://nicholaskmilligan.com/contact)
 - ⚡ Fun fact: I represented South Africa for bass fishing and featured on the cover of a fishing magazine!
-- 📍 Places I've been: I grew up in South Africa and currently live in Denver, CO. In between I've visited Lesotho, Botswana, Zimbabwe, Maurtius, Switzerland, Austria, England, Spain, Australia, New Zealand, Hong Kong, Brazil. Next up ---> Mexico!
-
+- 📍 Places I've been: I grew up in South Africa and currently live in Davis, CA. In between I've visited Lesotho, Botswana, Zimbabwe, Maurtius, Switzerland, Austria, England, Spain, Australia, New Zealand, Hong Kong, Brazil. 
 ##
 ## My goals for 2023:
 - Create an npm package to interface with ChatGPT from the command line.
 - Improve the functionality of my AI powered ReadMe.md generator.
 - Create a speech practicing platform using machine learning to track eye contact, filler words and cadence.
-- Learn Next.js and TypeScript.
-
 
 ##
 ![stats](https://github-readme-stats.vercel.app/api?username=NicMilli)
