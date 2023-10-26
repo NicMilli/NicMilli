@@ -1,5 +1,5 @@
 # Full stack developer with a focus on backend and a degree in Chemical Engineering 💡 
-I am trying to transition into a software developer role and am looking for work. Any help or networking is greatly appriciated!
+
 # Learn more about me: [![my website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nicholaskmilligan.com/) [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-milligan-5ba6971a5/)
 
 <img align="right" src="https://media.giphy.com/media/lJbot6b2yxvDBfL0bJ/giphy.gif" alt="My Image"  width="600" height="350">
