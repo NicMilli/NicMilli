@@ -32,4 +32,3 @@
 
 ##
 ![stats](https://github-readme-stats.vercel.app/api?username=NicMilli)
-![Commit graph](https://github-readme-activity-graph.cyclic.app/graph?username=NicMilli)
