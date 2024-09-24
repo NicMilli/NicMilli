@@ -28,7 +28,6 @@
 ##
 ## My goals for 2024:
 - I am re-designing my personal website, I love the original version but am excited to add new skills I've learned.
-- Start small scale consulting work
 
 ##
 ![stats](https://github-readme-stats.vercel.app/api?username=NicMilli)
